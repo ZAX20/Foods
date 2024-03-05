@@ -10,6 +10,10 @@ module.exports = {
           100: "#ac00e6",
         }
       },
+      fontFamily: {
+        sans: ['Graphik', 'sans-serif'],
+        serif: ['Merriweather', 'serif'],
+      },
     },
   },
 plugins: [],
